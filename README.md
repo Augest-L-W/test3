@@ -9,7 +9,7 @@ MainActivity1演示SimpleAdapter的用法；MainActivity2演示自定义对话�
 
 
 MainActivity1
-
+![image](https://github.com/Augest-L-W/test3/blob/master/ListView/image/1.png)
 本界面演示了SimpleAdapter用来装配ListView的用法。ListView每个Item的布局采用相对布局，包含一个ImageView和一个TextView，并且指定ImageView对齐父类布局的右侧。
 
 注意：ListView条目单击显示颜色可以指定其listSelector属性。  
@@ -31,7 +31,7 @@ MainActivity1
 </LinearLayout>
 自定义对话框的实现
 MainActivity2
-
+![image](https://github.com/Augest-L-W/test3/blob/master/ListView/image/2.png)
 自定义对话框使用getLayoutInflater()获取LayoutInflater实例，并利用LayoutInflater的inflate()方法从自定义布局文件中加载对话框的布局，从而实现自定义对话框。对话框的布局如下：
 
 <?xml version="1.0" encoding="utf-8"?>
@@ -88,7 +88,8 @@ android:orientation="vertical">
 </LinearLayout>
 
 使用XML定义菜单
-XmlDefineMenu
+MainActivity3
+![image](https://github.com/Augest-L-W/test3/blob/master/ListView/image/3.png)
 
 在res文件夹下新建menu文件夹，并新建一个xml文件来定义菜单，具体的XML文件内容:
 
@@ -131,7 +132,8 @@ XmlDefineMenu
 
 </menu>
 创建ActionMode模式的上下文菜单
-ActionModeContextMenu
+MainActivity4
+![image](https://github.com/Augest-L-W/test3/blob/master/ListView/image/4.png)
 
 上下文操作模式是Android3.0以后添加新特性，是上下文菜单的首选模式。
 
