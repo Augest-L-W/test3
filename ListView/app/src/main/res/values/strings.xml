@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="password">PassWord</string>
+    <string name="username">UserName</string>
+    <string name="android_app">ANDROID APP</string>
+    <string name="cancel">cancel</string>
+    <string name="sign_in">sign in</string>
+    <string name="submenu_title1">字体大小</string>
+    <string name="item1">普通菜单项</string>
+    <string name="submenu_title2">字体颜色</string>
+    <string name="submenu_item1">小</string>
+    <string name="submenu_item2">中</string>
+    <string name="submenu_item3">大</string>
+    <string name="submenu_item4">红色</string>
+    <string name="submenu_item5">黑色</string>
+    <string name="say" />
+    <string name="selected">selected</string>
+
+</resources>
